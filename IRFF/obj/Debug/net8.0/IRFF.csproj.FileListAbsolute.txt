@@ -1,0 +1,15 @@
+/workspaces/Checkpoint1711/IRFF/bin/Debug/net8.0/IRFF
+/workspaces/Checkpoint1711/IRFF/bin/Debug/net8.0/IRFF.deps.json
+/workspaces/Checkpoint1711/IRFF/bin/Debug/net8.0/IRFF.runtimeconfig.json
+/workspaces/Checkpoint1711/IRFF/bin/Debug/net8.0/IRFF.dll
+/workspaces/Checkpoint1711/IRFF/bin/Debug/net8.0/IRFF.pdb
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.AssemblyInfoInputs.cache
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.AssemblyInfo.cs
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.csproj.CoreCompileInputs.cache
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.sourcelink.json
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.dll
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/refint/IRFF.dll
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.pdb
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/IRFF.genruntimeconfig.cache
+/workspaces/Checkpoint1711/IRFF/obj/Debug/net8.0/ref/IRFF.dll
