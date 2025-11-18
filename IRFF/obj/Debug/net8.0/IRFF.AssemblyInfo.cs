@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IRFF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02d049d1224a2fdc056be7684aba55e2d5934914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5f3aa4d0183cd3fc1fc66f5f5b1918a46d467d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IRFF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IRFF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
